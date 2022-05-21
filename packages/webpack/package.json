@@ -22,7 +22,7 @@
     "autoprefixer": "^10.4.7",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.0.0",
-    "cssnano": "^5.1.8",
+    "cssnano": "^5.1.9",
     "esbuild-loader": "^2.19.0",
     "escape-string-regexp": "^5.0.0",
     "file-loader": "^6.2.0",
@@ -62,10 +62,10 @@
     "@types/webpack-hot-middleware": "^2.25.6",
     "@types/webpack-virtual-modules": "^0",
     "unbuild": "latest",
-    "vue": "3.2.34"
+    "vue": "3.2.35"
   },
   "peerDependencies": {
-    "vue": "3.2.34"
+    "vue": "3.2.35"
   },
   "engines": {
     "node": "^14.16.0 || ^16.11.0 || ^17.0.0 || ^18.0.0"
