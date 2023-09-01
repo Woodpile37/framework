@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@docus/app": "1.3.5",
-    "@docus/github": "1.0.4",
+    "@docus/github": "1.2.6",
     "@docus/social-image": "1.0.3",
     "@docus/theme": "1.2.2",
     "@nuxt/typescript-build": "^2.1.0",
